@@ -1,0 +1,8 @@
+--BACKEND--
+npm init -y
+npm i express cors mongoose dotenv
+
+
+--FRONTEND--
+npm create react-app "NAME"
+npm install react-router-dom@5.2.0
